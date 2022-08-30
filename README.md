@@ -4,7 +4,6 @@
 
 ### This project is made under the CodeRelay Hackathon hosted by IIT Bhubhaneshwar 
 
-<hr> 
 
 ## Features :rocket: :vulcan_salute:
 :heavy_check_mark: Beautiful UI <br>
@@ -13,31 +12,33 @@
 :heavy_check_mark: Auto Escalation of Complaints <br>
 :heavy_check_mark:  Easy to use <br>
 
+<hr>
 
 ## Development and Installation
 
+### Clone Project
+```
+git clone https://github.com/Sachin4219/Hostel-Management-Final.git`
+cd Hostel-Management-Final
+```
+
 ### Install Backend Dependencies
-- `npm install`
+```
+cd HostelManagementBackend
+npm install
+```
 
 ### Install Frontend Dependencies
-- `npm run client-install`
-
-### Setup up dev_keys for database
-- Either run local MongoServer or,
-- Setup Mongo Server at online platform like mlab and Create a keys_dev.js file in [config](https://github.com/starkblaze01/Hostel-Management/tree/master/config) folder and set up:-
-``` 
-module.exports = {
-  mongoURI: YOUR_LOCAL_MONGO_SERVER_URI,
-	secretOrKey: YOUR_SECRET
-}; 
 ```
-### Run the application
-- `npm run dev`
+cd hostel-management
+npm install
+```
 
-### For testing
-- `npm run test`
-
-**Find API Documentation [here](https://github.com/starkblaze01/Hostel-Management/blob/master/API_Endpoints.md).**
+### Run Application
+Into both front and backend directories run,
+```
+npm start
+```
 
 ### Screenshots
 
@@ -49,9 +50,9 @@ module.exports = {
 
 
 ## Team Members
-- [Sachin Shukla](https://github.com/Sachin4219)
-- [Utpal Kumar](https://github.com/Utpalk904)
-- [Harsh Kumar](https://github.com/harshk461)
+- [**Sachin Shukla**](https://github.com/Sachin4219)
+- [**Utpal Kumar**](https://github.com/Utpalk904)
+- [**Harsh Kumar**](https://github.com/harshk461)
 
 
 Liked the project? Hit the star button to show support!
