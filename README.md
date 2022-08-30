@@ -42,11 +42,18 @@ npm start
 
 ### Screenshots
 
-![Home Page](https://github.com/starkblaze01/Hostel-Management/blob/Docs/home.png)
 
-![Dashboard](https://github.com/starkblaze01/Hostel-Management/blob/Docs/dashboard.png)
+![Student Dashborad](https://github.com/Sachin4219/Hostel-Management-Final/blob/main/hostel-management/public/dashboard.jpeg)
+<h4 align="center"><em>Student Dashboard</em></h4>
+<br>
 
-![Room Cleaning](https://github.com/starkblaze01/Hostel-Management/blob/Docs/room%20cleaning.png)
+![Student Dashborad](https://github.com/Sachin4219/Hostel-Management-Final/blob/main/hostel-management/public/file_complaint.jpeg)
+<h4 align="center"><em>File Complaint</em></h4>
+<br>
+
+![Admin Complaint](https://github.com/Sachin4219/Hostel-Management-Final/blob/main/hostel-management/public/admin_complaint.jpeg)
+<h4 align="center"><em>Admin Complaint</em></h4>
+<br>
 
 
 ## Team Members
