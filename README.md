@@ -18,7 +18,7 @@
 
 ### Clone Project
 ```
-git clone https://github.com/Sachin4219/Hostel-Management-Final.git`
+git clone https://github.com/Sachin4219/Hostel-Management-Final.git
 cd Hostel-Management-Final
 ```
 
